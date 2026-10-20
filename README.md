@@ -35,3 +35,8 @@ Edit that array to try your own input. The program prints the smallest distance 
 ## Credits
 
 The algorithm follows the standard divide-and-conquer approach described on GeeksforGeeks.
+
+
+---
+
+<sub>Made by [tanaytejush](https://github.com/tanaytejush)</sub>
